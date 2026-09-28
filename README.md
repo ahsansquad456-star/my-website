@@ -9,7 +9,7 @@
 </head>
 <body>
 
-    <!-- https://ahsansquad456-star.github.io/my-website/ -->
+    <!-- / -->
 
 </body>
 </html>

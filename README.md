@@ -1,5 +1,5 @@
-<head>
-    <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
 
@@ -7,9 +7,10 @@
 
     <title>My Website</title>
 </head>
+
 <body>
 
-    <!-- / -->
+    <!-- Aapki website ka baqi code yahan hoga -->
 
 </body>
 </html>
